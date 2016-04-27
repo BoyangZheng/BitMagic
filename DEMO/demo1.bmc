@@ -1,0 +1,5 @@
+create top1.bmp
+moveto 450 50
+mixmode 2
+save demo1.bmp
+exit

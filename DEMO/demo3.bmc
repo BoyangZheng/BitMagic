@@ -1,0 +1,7 @@
+create top1.bmp
+moveto 450 50
+rotate 30
+setblank 255 255 255 10
+transparency 50
+save demo3.bmp
+exit

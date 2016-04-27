@@ -1,0 +1,8 @@
+create top2.bmp
+zoom 100% 100%
+setblank 255 255 255 20
+select L0
+setblank 175 210 250 20
+save demo4.bmp
+histogram
+exit

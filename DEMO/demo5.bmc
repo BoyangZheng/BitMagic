@@ -1,0 +1,16 @@
+create top1.bmp
+moveto 450 50
+zoom 6% 10%
+setblank 255 255 255 10
+mixmode 1
+create top1.bmp
+moveto 450 100
+zoom 6% 10%
+setblank 255 255 255 10
+mixmode 2
+create top1.bmp
+moveto 500 100
+zoom 6% 10%
+setblank 255 255 255 10
+save demo5.bmp
+exit
